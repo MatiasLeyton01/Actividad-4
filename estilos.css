@@ -2,8 +2,11 @@ body {
     background-image: url(https://sw4eu.com/wp-content/uploads/2015/03/e8c8e5GTX.jpg);
     background-repeat: repeat;
 }
-.logo{
-    background-color:aquamarine;
+.fondo_nav{
+    background-color:darkblue;
+}
+.barra1{
+  background-color: darkgray;
 }
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
