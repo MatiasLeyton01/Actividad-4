@@ -38,3 +38,71 @@ input[type=text], select, textarea {
     background-color: #f2f2f2;
     padding: 20px;
   }
+  
+  .not1 {
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+  }
+
+  h1{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+    font-weight: 100;
+  }
+  .not1 img{
+    width: 600px;
+    float: left;
+
+  }
+  .not1 p{
+  text-align: justify;
+  font-size: 18px;
+  font-weight: 100;
+  margin-top: 20px;
+  padding-right: 100px;
+  padding-top: 50px;
+
+  }
+
+  .text1{
+    float: left;
+  }
+  .not2{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+
+  }
+  .not2 img{
+    width: 600px;
+    float: left;
+
+  }
+  .not2 p{
+    text-align: justify;
+  font-size: 18px;
+  font-weight: 100;
+  margin-top: 20px;
+  padding-right: 100px;
+  }
+  .not3{
+    height: 250px;
+    margin: 4rem auto;
+    width: 700px;
+
+  }
+  .not3 img{
+    width: 600px;
+    float: left;
+  
+  }
+  .not3 p{
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 100;
+    margin-top: 20px;
+    padding-right: 100px;
+
+  }
